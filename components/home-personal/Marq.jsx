@@ -2,14 +2,12 @@ import React from 'react';
 
 function Marq() {
   const items = [
-    'Web Design',
-    'Art Director',
-    'Brand Strategy',
-    'UI/UX Design',
-    'Digital Marketing',
-    'Web Developement',
-    'Seo Mackting',
-    'Product Desgin',
+    'Sustainnable AI',
+    'Autonomous AI Agents',
+    'AI Content Creation',
+    'Genrative AI 2025',
+    'AI For Business',
+    
   ];
   return (
     <section className="marq">
