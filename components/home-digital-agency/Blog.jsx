@@ -7,14 +7,14 @@ function Blog() {
         <div className="sec-head mb-80">
           <div className="d-flex align-items-center">
             <div>
-              {/* <span className="sub-title main-color mb-5">Our Blogs</span> */}
+              <span className="sub-title main-color mb-5">Our Blogs</span>
               <h3 className="fw-600 fz-50 text-u d-rotate wow">
                 <span className="rotate-text">
                   Latest <span className="fw-200">News.</span>
                 </span>
               </h3>
             </div>
-            {/* <div className="ml-auto vi-more">
+            <div className="ml-auto vi-more">
               <a
                 href="/blog-grid-sidebar"
                 className="butn butn-sm butn-bord radius-30"
@@ -22,7 +22,7 @@ function Blog() {
                 <span>View All</span>
               </a>
               <span className="icon ti-arrow-top-right"></span>
-            </div> */}
+            </div>
           </div>
         </div>
         <div className="row">
