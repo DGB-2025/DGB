@@ -7,27 +7,27 @@ function Footer() {
         <div className="row justify-content-between">
           <div className="col-lg-2">
             <div className="logo icon-img-100 md-mb80">
-              <img src="/assets/imgs/logo-3.png" alt="" />
+              <img src="/assets/imgs/logo-light.png" alt="" />
             </div>
           </div>
           <div className="col-lg-4">
             <div className="column md-mb50">
               <h6 className="sub-title mb-30">Contact</h6>
               <h6 className="p-color fw-400">
-              12808 W Airport Blvd Suite 265G, <br /> Sugar Land, TX 77478, United States 
+                5919 Trussville Crossings <br /> Pkwy, Birmingham
               </h6>
               <h6 className="mt-30 mb-15">
-                <a href="#0">readywebsolution1@gmail.com</a>
+                <a href="#0">Hello@webfolio.com</a>
               </h6>
               <a href="#0" className="underline">
-                <span className="fz-22 main-color">+1 832-209-7603</span>
+                <span className="fz-22 main-color">+2 456 (343) 24 45</span>
               </a>
             </div>
           </div>
           <div className="col-lg-2">
             <div className="column md-mb50">
               <h6 className="sub-title mb-30">Useful Links</h6>
-              {/* <ul className="rest fz-14 opacity-7">
+              <ul className="rest fz-14 opacity-7">
                 <li className="mb-15">
                   <a href="/page-about">About</a>
                 </li>
@@ -40,7 +40,7 @@ function Footer() {
                 <li>
                   <a href="/page-contact">Contact</a>
                 </li>
-              </ul> */}
+              </ul>
             </div>
           </div>
           <div className="col-lg-3">
@@ -80,12 +80,12 @@ function Footer() {
         <div className="pt-30 pb-30 mt-80 bord-thin-top">
           <div className="text-center">
             <p className="fz-14">
-              © 2025 ReadyWeb-AiServices 
-              {/* <span className="underline main-color">
+              © 2024 Webfolio is Proudly Powered by{' '}
+              <span className="underline main-color">
                 <a href="https://themeforest.net/user/UiCamp" target="_blank">
                   UiCamp
                 </a>
-              </span> */}
+              </span>
             </p>
           </div>
         </div>

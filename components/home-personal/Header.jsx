@@ -21,7 +21,7 @@ function Header() {
   return (
     <div
       className="header header-personal valign bg-img"
-      data-background="/assets/imgs/header/bg1.jpg"
+      data-background="/assets/imgs/header/p0.jpg"
       data-overlay-dark="2"
     >
       <div className="container ontop">
@@ -35,14 +35,15 @@ function Header() {
                 Hello! there
               </h6>
               <h1 className="fw-700 mb-10">
-                &apos;AI-Powered Solutions<span className="main-color">For Modern Business'</span>
+                I&apos;m Oliver <span className="main-color">Jackson</span>
               </h1>
-              {/* <h3>AI Powered Solutions for Modern Business</h3> */}
+              <h3>I am a product designer</h3>
               <div className="row">
                 <div className="col-lg-9">
                   <div className="text mt-30">
                     <p>
-                    Automate your workflow, boost productivity, and unlock new revenue streams with cutting-edge artificial intelligence.
+                      From the inception of a project to its completion, we
+                      employ a comprehensive and holistic approach.
                     </p>
                   </div>
                   <div className="d-flex align-items-center mt-60">
@@ -50,7 +51,7 @@ function Header() {
                       href="/page-contact"
                       className="butn butn-md butn-bord radius-30"
                     >
-                      <span className="text">Contact Us</span>
+                      <span className="text">Contact Me</span>
                     </a>
                     <div className="icon-img-60 ml-20">
                       <img
@@ -67,15 +68,15 @@ function Header() {
         <div className="info d-flex align-items-center justify-content-end mt-100">
           <div className="item">
             <h6 className="sub-title mb-10">Email :</h6>
-            <span className="p-color">readywebsolution1@gmail.com</span>
+            <span className="p-color">Webfolio.Info@gmail.com</span>
           </div>
           <div className="item">
             <h6 className="sub-title mb-10">Phone :</h6>
-            <span className="p-color">+1 832-209-7603</span>
+            <span className="p-color">+2 456 (343) 24 45</span>
           </div>
           <div className="item">
             <h6 className="sub-title mb-10">Address :</h6>
-            <span className="p-color">12808 W Airport Blvd Suite 265G, Sugar Land, TX 77478, United States</span>
+            <span className="p-color">5919 Trussville Pkwy, Birmingham</span>
           </div>
         </div>
       </div>
