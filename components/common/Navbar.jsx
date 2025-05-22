@@ -43,7 +43,7 @@ function Navbar() {
     <nav className="navbar navbar-expand-lg bord blur">
       <div className="container o-hidden">
         <a className="logo icon-img-100" href="#">
-          <img src="/assets/imgs/logo-light.png" alt="logo" />
+          <img src="/assets/imgs/dgb-logo.png" alt="logo" />
         </a>
 
         <button
@@ -71,7 +71,7 @@ function Navbar() {
               onMouseMove={handleDropdownMouseMove}
               className="nav-item dropdown"
             >
-              <a
+              {/* <a
                 className="nav-link dropdown-toggle"
                 data-toggle="dropdown"
                 href="#"
@@ -80,7 +80,7 @@ function Navbar() {
                 aria-expanded="false"
               >
                 <span className="rolling-text">Demos</span>
-              </a>
+              </a> */}
               <div className="dropdown-menu mega-menu">
                 <div className="container">
                   <div className="row">
@@ -137,7 +137,7 @@ function Navbar() {
                 </div>
               </div>
             </li>
-            <li
+            {/* <li
               onMouseLeave={handleDropdownMouseLeave}
               onMouseMove={handleDropdownMouseMove}
               className="nav-item dropdown"
@@ -194,8 +194,8 @@ function Navbar() {
                   </a>
                 </li>
               </ul>
-            </li>
-            <li
+            </li> */}
+            {/* <li
               onMouseLeave={handleDropdownMouseLeave}
               onMouseMove={handleDropdownMouseMove}
               className="nav-item dropdown"
@@ -233,8 +233,8 @@ function Navbar() {
                   Project Details
                 </a>
               </div>
-            </li>
-            <li
+            </li> */}
+            {/* <li
               onMouseLeave={handleDropdownMouseLeave}
               onMouseMove={handleDropdownMouseMove}
               className="nav-item dropdown"
@@ -263,7 +263,7 @@ function Navbar() {
                   Blog Details
                 </a>
               </div>
-            </li>
+            </li> */}
             <li className="nav-item">
               <a className="nav-link" href="/page-contact">
                 <span className="rolling-text">Contact Us</span>
