@@ -32,7 +32,7 @@ function Header() {
                 <span className="icon-img-30 mr-10">
                   <img src="/assets/imgs/header/hi.png" alt="" />
                 </span>{' '}
-                Hello! there
+                {/* Hello! there */}
               </h6>
               <h1 className="fw-700 mb-10">
                 &apos;AI-Powered Solutions<span className="main-color">For Modern Business'</span>

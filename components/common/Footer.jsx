@@ -17,7 +17,7 @@ function Footer() {
               12808 W Airport Blvd Suite 265G, <br /> Sugar Land, TX 77478, United States 
               </h6>
               <h6 className="mt-30 mb-15">
-                <a href="#0">readywebsolution1@gmail.com</a>
+                <a href="#0">ctudevelopment@gmail.com</a>
               </h6>
               <a href="#0" className="underline">
                 <span className="fz-22 main-color">+1 832-209-7603</span>
