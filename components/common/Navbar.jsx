@@ -42,9 +42,9 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg bord blur">
       <div className="container o-hidden">
-      
+        <a className="logo icon-img-100" href="#">
           <img src="/assets/imgs/Logo-3.png" alt="logo" />
-      
+        </a>
 
         <button
           className="navbar-toggler"
