@@ -49,7 +49,7 @@ function Navbar() {
         
          <a className="logo icon-img-100" href="#">
        
-           <Image src="/assets/imgs/Logo-3.png" alt="My Image" width={300} height={200} unoptimized />
+           <Image src="/assets/imgs/Logo-3.jpeg" alt="My Image" width={300} height={200} unoptimized />
 
         </a> 
         
